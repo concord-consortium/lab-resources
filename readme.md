@@ -21,6 +21,7 @@ When adding a new file to this repo:
     - A link to the original resource. In the case of an image this link should be to the page where this image is located, rather than a direct link to just the image file.
     - An indication of the kind of license this resources is released under.
 
+```
     Example commit message 1:
         Cell structure
         URL: http://commons.wikimedia.org/wiki/File:Animal_cell_structure_en.svg
@@ -30,6 +31,7 @@ When adding a new file to this repo:
         Diffusion model legend
         URL: created locally
         License: CC-BY-3.0
+```
 
 ### Retrieving a URL for embedding into some other system
 - First go to [ this page ](http://concord-consortium.github.com/lab-resources/) and drag the bookmarklet found there to your bookmarks bar (or bookmark it however you like).
